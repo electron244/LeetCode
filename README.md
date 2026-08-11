@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/electron244/LeetCode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/electron244/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/electron244/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
