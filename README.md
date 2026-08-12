@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/electron244/LeetCode/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/electron244/LeetCode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/electron244/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/electron244/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/electron244/LeetCode/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/electron244/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/electron244/LeetCode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -68,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/electron244/LeetCode/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/electron244/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -113,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/electron244/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
