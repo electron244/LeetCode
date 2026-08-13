@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/electron244/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/electron244/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/electron244/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/electron244/LeetCode/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/electron244/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/electron244/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/electron244/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/electron244/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
