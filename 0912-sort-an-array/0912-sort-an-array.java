@@ -1,36 +1,42 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        merge(nums,0,nums.length-1);
+        mergeSort(nums,0,nums.length-1);
         return nums;
     }
-    public void merge(int[] arr,int left ,int right){
+    public void mergeSort(int[] arr,int left,int right){
         if(left>=right) return;
         int mid = left+(right-left)/2;
-        merge(arr,left,mid);
-        merge(arr,mid+1,right);
-        sort(arr,left,mid,right);
+        mergeSort(arr,left,mid);
+        mergeSort(arr,mid+1,right);
+        merge(arr,left,mid,right);
     }
-
-    public void sort(int[] nums,int left,int mid,int right){
-        int[] temp = new int[right-left+1];
+    public void merge(int[] arr,int left,int mid,int right){
         int i = left;
         int j = mid+1;
-        int k = 0;
+        int k= 0 ;
+        int[] temp = new int[right-left+1];
         while(i<=mid && j<=right){
-            if(nums[i] <= nums[j]){
-                temp[k++] = nums[i++];
+            if(arr[i] <= arr[j]){
+                temp[k] = arr[i];
+                i++;
             }else{
-                temp[k++] = nums[j++];
+                temp[k] = arr[j];
+                j++;
             }
+            k++;
         }
         while(i<=mid){
-            temp[k++] = nums[i++];
+            temp[k] = arr[i];
+            k++;
+            i++;
         }
         while(j<=right){
-            temp[k++] = nums[j++];
+            temp[k] = arr[j];
+            k++;
+            j++;
         }
-        for (int x = 0; x < temp.length; x++) {
-            nums[left + x] = temp[x];
+        for(int x =0;x<temp.length;x++){
+            arr[left+x] = temp[x];
         }
     }
 }
