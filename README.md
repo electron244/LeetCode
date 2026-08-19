@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/electron244/LeetCode/tree/master/0164-maximum-gap) |
+| [0228-summary-ranges](https://github.com/electron244/LeetCode/tree/master/0228-summary-ranges) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/electron244/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/electron244/LeetCode/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
