@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/electron244/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/electron244/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [2293-min-max-game](https://github.com/electron244/LeetCode/tree/master/2293-min-max-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/electron244/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/electron244/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2293-min-max-game](https://github.com/electron244/LeetCode/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/electron244/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/electron244/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
