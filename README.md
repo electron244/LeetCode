@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/electron244/LeetCode/tree/master/0228-summary-ranges) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/electron244/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/electron244/LeetCode/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/electron244/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/electron244/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/electron244/LeetCode/tree/master/0877-stone-game) |
@@ -162,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/electron244/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/electron244/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
