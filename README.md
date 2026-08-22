@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/electron244/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2299-strong-password-checker-ii](https://github.com/electron244/LeetCode/tree/master/2299-strong-password-checker-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/electron244/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
