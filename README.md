@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/electron244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2293-min-max-game](https://github.com/electron244/LeetCode/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/electron244/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2733-neither-minimum-nor-maximum](https://github.com/electron244/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/electron244/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/electron244/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/electron244/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/electron244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/electron244/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/electron244/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/electron244/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
