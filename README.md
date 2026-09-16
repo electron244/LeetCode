@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/electron244/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/electron244/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/electron244/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/electron244/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/electron244/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/electron244/LeetCode/tree/master/0724-find-pivot-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/electron244/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/electron244/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
