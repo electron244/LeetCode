@@ -255,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/electron244/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/electron244/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
