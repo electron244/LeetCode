@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/electron244/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/electron244/LeetCode/tree/master/2299-strong-password-checker-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/electron244/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/electron244/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/electron244/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/electron244/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/electron244/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/electron244/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/electron244/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 |  |
