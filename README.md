@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/electron244/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/electron244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/electron244/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/electron244/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2293-min-max-game](https://github.com/electron244/LeetCode/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/electron244/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/electron244/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/electron244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/electron244/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/electron244/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/electron244/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/electron244/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/electron244/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/electron244/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/electron244/LeetCode/tree/master/1399-count-largest-group) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/electron244/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/electron244/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0697-degree-of-an-array](https://github.com/electron244/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/electron244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/electron244/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/electron244/LeetCode/tree/master/1399-count-largest-group) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/electron244/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2784-check-if-array-is-good](https://github.com/electron244/LeetCode/tree/master/2784-check-if-array-is-good) |
