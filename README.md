@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/electron244/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/electron244/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/electron244/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/electron244/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2293-min-max-game](https://github.com/electron244/LeetCode/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/electron244/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2733-neither-minimum-nor-maximum](https://github.com/electron244/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/electron244/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/electron244/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/electron244/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/electron244/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/electron244/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/electron244/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/electron244/LeetCode/tree/master/2784-check-if-array-is-good) |
