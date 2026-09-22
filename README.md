@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/electron244/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/electron244/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/electron244/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/electron244/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/electron244/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/electron244/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/electron244/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0697-degree-of-an-array](https://github.com/electron244/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0804-unique-morse-code-words](https://github.com/electron244/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/electron244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/electron244/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/electron244/LeetCode/tree/master/1399-count-largest-group) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/electron244/LeetCode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0804-unique-morse-code-words](https://github.com/electron244/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/electron244/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/electron244/LeetCode/tree/master/2299-strong-password-checker-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/electron244/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
