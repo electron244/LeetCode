@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/electron244/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0804-unique-morse-code-words](https://github.com/electron244/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/electron244/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/electron244/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/electron244/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/electron244/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/electron244/LeetCode/tree/master/2299-strong-password-checker-ii) |
@@ -283,8 +284,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/electron244/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/electron244/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/electron244/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/electron244/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
