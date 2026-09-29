@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/electron244/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/electron244/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/electron244/LeetCode/tree/master/0228-summary-ranges) |
+| [0260-single-number-iii](https://github.com/electron244/LeetCode/tree/master/0260-single-number-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/electron244/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/electron244/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/electron244/LeetCode/tree/master/0605-can-place-flowers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/electron244/LeetCode/tree/master/0260-single-number-iii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/electron244/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
